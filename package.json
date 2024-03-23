@@ -1,6 +1,6 @@
 {
   "name": "tea_by_zlkcyber",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "��#\u0000 \u0000t\u0000e\u0000a\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,16 @@
     "url": "git+https://github.com/Zlkcyber/tea.git"
   },
   "author": "zlkcyber",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Zlkcyber/tea/issues"
   },
   "homepage": "https://github.com/Zlkcyber/tea#readme",
   "dependencies": {
     "tea_by_zlkcyber": "^1.0.3"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "tea_by_zlkcyber"
+  ]
 }
