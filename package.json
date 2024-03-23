@@ -1,6 +1,6 @@
 {
   "name": "tea_by_zlkcyber",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "��#\u0000 \u0000t\u0000e\u0000a\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Zlkcyber/tea#readme",
   "dependencies": {
+    "paswordpublish": "^0.0.0",
     "tea_by_zlkcyber": "^1.0.3"
   },
-  "devDependencies": {},
   "keywords": [
     "tea_by_zlkcyber"
   ]
